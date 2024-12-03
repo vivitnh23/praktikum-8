@@ -1,4 +1,4 @@
-# praktikum-8
+# Praktikum-8
 # Vivit Nurul Hidayah 
 # TI.24.A1 
 
