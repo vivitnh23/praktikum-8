@@ -13,7 +13,7 @@ Daftar Nilai Mahasiswa adalah sebuah program berbasis Python untuk mengelola dat
 - Exit Program: Keluar dari program.
 
 ## Flowchart 
-![Flowchart](https://github.com/vivitnh23/praktikum-8/blob/main/Flowchart03.png?raw=true)
+![Flowchart](https://github.com/vivitnh23/praktikum-8/blob/main/FLOWCHART%2005.png?raw=true)
 
 # Kode Program 
 ``` Python
